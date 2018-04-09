@@ -1,0 +1,19 @@
+{
+  "name": "trytypescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mafutomo/tryTypeScript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mafutomo/tryTypeScript/issues"
+  },
+  "homepage": "https://github.com/mafutomo/tryTypeScript#readme"
+}
